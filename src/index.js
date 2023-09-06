@@ -9,7 +9,7 @@ import './index.css';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   // <React.StrictMode>
-    <BrowserRouter basename="/your-pet-project-group1">
+    <BrowserRouter basename="/rect_node_70_InnaStarzhynska">
       <Provider store={store}>
       <PersistGate loading={null} persistor={persistor}>
       <App />
