@@ -2,7 +2,7 @@
   "name": "react-homework-template",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://InnaStarzhynska.github.io/your-pet-project-group1/",
+  "homepage": "https://GoitStudentsWorks.github.io/rect_node_70_InnaStarzhynska/",
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.5",
     "@testing-library/jest-dom": "^5.16.3",
