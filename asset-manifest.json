@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/rect_node_70_InnaStarzhynska/static/css/main.1b6efad6.css",
-    "main.js": "/rect_node_70_InnaStarzhynska/static/js/main.5ec04777.js",
+    "main.js": "/rect_node_70_InnaStarzhynska/static/js/main.7b008809.js",
     "static/js/680.5ccadb6e.chunk.js": "/rect_node_70_InnaStarzhynska/static/js/680.5ccadb6e.chunk.js",
     "static/js/606.03be2bbc.chunk.js": "/rect_node_70_InnaStarzhynska/static/js/606.03be2bbc.chunk.js",
     "static/js/312.91a2ad72.chunk.js": "/rect_node_70_InnaStarzhynska/static/js/312.91a2ad72.chunk.js",
@@ -36,7 +36,7 @@
     "static/media/Cutie Fox-1.1s-201px.svg": "/rect_node_70_InnaStarzhynska/static/media/Cutie Fox-1.1s-201px.1ee00bc8d879a8ed6be95e4dcbc1f0c5.svg",
     "index.html": "/rect_node_70_InnaStarzhynska/index.html",
     "main.1b6efad6.css.map": "/rect_node_70_InnaStarzhynska/static/css/main.1b6efad6.css.map",
-    "main.5ec04777.js.map": "/rect_node_70_InnaStarzhynska/static/js/main.5ec04777.js.map",
+    "main.7b008809.js.map": "/rect_node_70_InnaStarzhynska/static/js/main.7b008809.js.map",
     "680.5ccadb6e.chunk.js.map": "/rect_node_70_InnaStarzhynska/static/js/680.5ccadb6e.chunk.js.map",
     "606.03be2bbc.chunk.js.map": "/rect_node_70_InnaStarzhynska/static/js/606.03be2bbc.chunk.js.map",
     "312.91a2ad72.chunk.js.map": "/rect_node_70_InnaStarzhynska/static/js/312.91a2ad72.chunk.js.map",
@@ -51,6 +51,6 @@
   },
   "entrypoints": [
     "static/css/main.1b6efad6.css",
-    "static/js/main.5ec04777.js"
+    "static/js/main.7b008809.js"
   ]
 }
